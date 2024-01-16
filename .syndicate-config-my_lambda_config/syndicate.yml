@@ -1,0 +1,6 @@
+account_id: '196241772369'
+deploy_target_bucket: syndicate-task01
+extended_prefix_mode: false
+project_path: C:\Users\Kostiantyn_Borozdykh\java projects\AWS-Course\my_lambda
+region: eu-central-1
+use_temp_creds: false
