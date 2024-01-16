@@ -1,0 +1,6 @@
+name: my_lambda
+build_projects_mapping:
+  java: task01/jsrc/main/java
+lambdas:
+  task01:
+    runtime: java
